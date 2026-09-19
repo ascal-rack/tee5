@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Zee Cinema HD",
+    "id": "165",
+    "category": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
+    "keyId": "f56beaac9f124616872c741c9ce4fa4e",
+    "key": "c3b38db5542719e8e10008e9193089e6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png"
+  },
+  {
+    "name": "Zee TV HD",
+    "id": "167",
+    "category": "Entertainment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
+    "keyId": "65c3633157574361b191059e46e72968",
+    "key": "4064c52328bfe9e6008776b48a431e4b",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "id": "415",
+    "category": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd",
+    "keyId": "812411cba8bc42c79eb2b19cd78ad3f3",
+    "key": "476f813d8651987fc1b4074693676fd8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png"
+  },
+  {
+    "name": "Anmol TV",
+    "id": "473",
+    "category": "Entertainment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd",
+    "keyId": "4023613457774cbeb71a62c339970e63",
+    "key": "227a41f602baeac002e6cdc46c000e19",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png"
+  },
+  {
+    "name": "Zing",
+    "id": "585",
+    "category": "Music",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd",
+    "keyId": "f0fb14eebe474a6ab74c8301d55a7224",
+    "key": "027c47023b8eb258db20ac6ae7ba46a8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZing.png"
+  },
+  {
+    "name": "Zee Bangla",
+    "id": "625",
+    "category": "Bengali",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd",
+    "keyId": "1df83e058b864da896c9288eef63b113",
+    "key": "2782858ad6e8d5a7964ddcd7c2cdb207",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBangla.png"
+  },
+  {
+    "name": "Zee Telugu",
+    "id": "638",
+    "category": "Telugu",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd",
+    "keyId": "1ce5cd75a6ad44a38a7d1b8dbaf9c330",
+    "key": "efada6d2baa8b99416f6431e0b0dc19d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png"
+  },
+  {
+    "name": "Zee Kannada",
+    "id": "689",
+    "category": "Kannada",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd",
+    "keyId": "50e714b65ead453cbfab9b20bed5c79d",
+    "key": "3d19a7a524ae116254df1ac49714c1ad",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannada.png"
+  },
+  {
+    "name": "Zee Sarthak",
+    "id": "722",
+    "category": "Odia",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd",
+    "keyId": "ecad0b097b574078a4a1bde24bfdb2e5",
+    "key": "4da4712923c51138fd1ff9ae2d11e575",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png"
+  },
+  {
+    "name": "& TV HD",
+    "id": "472",
+    "category": "Entertainment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd",
+    "keyId": "67d18634ccb04875875c60fb8d9caaba",
+    "key": "99a66471c09e4b8a8dc39a0de6803f75",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png"
+  },
+  {
+    "name": "& Pictures HD",
+    "id": "185",
+    "category": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd",
+    "keyId": "de8045e9f0fb4d03845dcc4a8bd7712a",
+    "key": "6807bd09bda34ada83152908192af6d6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png"
+  },
+  {
+    "name": "& Pictures",
+    "id": "1839",
+    "category": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
+    "keyId": "8dea532cabfe4f71ba20f62310e7949f",
+    "key": "7a214a974e4f4d1d9bb66364d5f0cb92",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPictures.png"
+  },
+  {
+    "name": "Unite8 Sports 1 HD ",
+    "id": "9624886",
+    "category": "Sports",
+    "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
+    "keyId": "1a6d0bf4fa174776b57d8aa7a283a029",
+    "key": "26c8c96f5b1f5d7faa7af1aef4bee3a4",
+    "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0"
+  }
+]
+  
