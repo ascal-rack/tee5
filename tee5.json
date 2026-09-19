@@ -138,13 +138,23 @@
     "name": "Zee TV",
     "id": "167",
     "category": "Entertainment",
-    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd",
     "KeyId": "ed068cf84f0640ccbc7c0e395c0a272e",
     "Key": "bb722190f2bb446391020411a7d0828b",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png"
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTV.png"
   },
   {
     "name": "Zee TV HD",
+    "id": "120",
+    "category": "Entertainment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
+    "KeyId": "65c3633157574361b191059e46e72968",
+    "Key": "78450b11381340c297d96c13183d3744",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png"
+  },
+  
+  {
+    "name": "Zee APac Hd ",
     "id": "168",
     "category": "Entertainment",
     "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_800/master.m3u8",
